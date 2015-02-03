@@ -8,9 +8,9 @@ var mouseY;
 
 var debug = true;
 
-//***************
+//****************
 // Ball
-//***************
+//****************
 
 var Ball= function(){
     this.x;
